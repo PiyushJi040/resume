@@ -2,7 +2,7 @@
 
 A beautiful, dynamic, and interactive resume website built with React.js featuring stunning hover effects, animations, and modern design.
 
-![Resume Preview](https://img.shields.io/badge/Status-Live-brightgreen) ![React](https://img.shields.io/badge/React-18+-blue) ![License](https://img.shields.io/badge/License-MIT-yellow)
+![React](https://img.shields.io/badge/React-19+-blue) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## ✨ Features
 
@@ -13,26 +13,6 @@ A beautiful, dynamic, and interactive resume website built with React.js featuri
 - **Floating Elements**: Background decorative elements that add visual appeal
 - **Responsive Design**: Works perfectly on all device sizes
 - **Modern UI/UX**: Clean, professional design with attention to detail
-
-## 🎨 Screenshots
-
-### Home Page
-- Interactive cursor effects
-- Floating background elements
-- Gradient text effects
-- Animated profile picture with decorative rings
-
-### Skills Section
-- Animated progress bars with skill levels (0-100%)
-- Shimmer effects on progress bars
-- Category-based skill organization
-- Beautiful gradient cards
-
-### Projects Section
-- Project cards with icons and gradients
-- Interactive hover effects
-- Technology tags with hover animations
-- Live demo and GitHub links
 
 ## 🚀 Quick Start
 
@@ -59,11 +39,10 @@ A beautiful, dynamic, and interactive resume website built with React.js featuri
 
 ## 🛠️ Technologies Used
 
-- **React.js** - Frontend framework
+- **React.js 19+** - Frontend framework
 - **React Router** - Navigation
 - **CSS3** - Advanced animations and effects
 - **Vite** - Build tool
-- **Modern JavaScript (ES6+)**
 
 ## 📁 Project Structure
 
@@ -110,23 +89,6 @@ The application works seamlessly across:
 - 💻 Desktop computers
 - 📱 Tablets
 - 📱 Mobile phones
-- 🖥️ Various screen sizes
-
-## 🎨 Color Palette
-
-- **Primary Purple**: #9370DB
-- **Secondary Purple**: #800080
-- **Accent Orange**: #FFA500
-- **Accent Pink**: #FF69B4
-- **Accent Cyan**: #00CED1
-
-## 🤝 Contributing
-
-Feel free to fork this project and submit pull requests for any improvements.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨💻 Developer
 
@@ -134,7 +96,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 📧 Email: jaiswalpiyush040@gmail.com
 - 📱 Phone: 9142143711
 - 💼 LinkedIn: [Connect with me](https://linkedin.com/in/piyush-jaiswal)
-- 🌐 Portfolio: [Live Demo](https://github.com/PiyushJi040/resume)
 
 ---
 
