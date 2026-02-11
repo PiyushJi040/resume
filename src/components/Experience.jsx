@@ -23,7 +23,7 @@ const Experience = () => {
     },
     {
       title: 'Customer Service Cashier',
-      company: 'Mahadev Hosiery',
+      company: 'Jaiswal Store',
       duration: '01/02/2021 - 01/02/2023',
       description: [
         'Handled customer transactions and provided excellent service.',
