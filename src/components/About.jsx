@@ -203,7 +203,7 @@ const About = () => {
           }}>
             <div style={{ position: 'relative' }}>
               <img 
-                src="/about_image.jpg" 
+                src={`${import.meta.env.BASE_URL}about_image.jpg`}
                 alt="Piyush Jaiswal About" 
                 className="glow-on-hover"
                 style={{

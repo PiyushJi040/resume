@@ -78,7 +78,7 @@ const Home = () => {
           marginBottom: '2rem'
         }}>
           <img 
-            src="/profile_picture.jpg" 
+            src={`${import.meta.env.BASE_URL}profile_picture.jpg`}
             alt="Piyush Jaiswal Profile" 
             style={{
               width: '200px',
